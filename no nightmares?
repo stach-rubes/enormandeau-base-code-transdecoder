@@ -107,7 +107,7 @@ if (@ARGV) {
     die "Error, don't understand options: @ARGV";
 }
 
-(just take a deep breath and scream, remember you chose this profession)
+### (just take a deep breath and scream, remember you chose this profession)
 
 our $SEE = $verbose;
 
